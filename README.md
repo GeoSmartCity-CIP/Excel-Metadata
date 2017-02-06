@@ -1,6 +1,11 @@
 # Excel-Metadata
 Excel spreadsheet to easily compile simple metadata, according to INSPIRE Metadata Implemening Rules.
 The spreadsheet file may be used to easily compile simple metadata according to INSPIRE Metadata Implemening Rules.
+
+Two versions have been implemented:
+*English version, conformant to INSPIRE Metadata Implementing Rules
+*Italian version, conformant to national metadata specifications (RNDT)
+
 The file is structured into the following sheets
 a) Readme 	(this) sheet, containing brief instructions
 b) Form	sheet to be used to compile metadata
