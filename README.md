@@ -6,7 +6,8 @@ Two versions have been implemented:
 *English version, conformant to INSPIRE Metadata Implementing Rules
 *Italian version, conformant to national metadata specifications (RNDT)
 
-The file is structured into the following sheets
+The file is structured into the following sheets:
+
 a) Readme 	(this) sheet, containing brief instructions
 b) Form	sheet to be used to compile metadata
 c) XML	ISO19139 XML representation of the metadata
